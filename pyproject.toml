@@ -1,0 +1,17 @@
+[project]
+name = "fast-mcp-demo-client"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "huggingface-hub>=1.7.1",
+    "langchain>=1.2.12",
+    "langchain-huggingface>=1.2.1",
+    "langchain-mcp-adapters>=0.2.1",
+    "langchain-openai>=1.1.11",
+    "python-dotenv>=1.2.2",
+    "sentence-transformers>=5.3.0",
+    "streamlit>=1.55.0",
+    "transformers>=5.3.0",
+]

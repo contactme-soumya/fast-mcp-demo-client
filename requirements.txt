@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-mcp-adapters
+python-dotenv
+streamlit
+# Hugging Face Integration
+langchain-huggingface
+huggingface-hub
+aiohttp
